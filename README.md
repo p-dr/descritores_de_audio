@@ -3,5 +3,7 @@ Projeto da disciplina de Ciência de Dados para classificação de faixas de áu
 
 Autores:
 André Storino
+
 Pedro Ilídio
+
 Wallace Cruz
